@@ -1,0 +1,16 @@
+.vm_blue {
+	color: blue !important;
+	text-decoration: underline;
+}
+
+.vm_red {
+	color: red !important;
+}
+
+.vm_yellow {
+	color: yellow !important;
+}
+
+.vm_green {
+	color: green !important;
+}
